@@ -1,3 +1,13 @@
+
+---
+layout: page
+title: Tiziana Ligorio
+subtitle: Computer Science PhD
+---
+
+
+
+
 FALL 2023
 CSCI 235
 – Software Design and Analysis II  (Data Structures), Large Lecture
