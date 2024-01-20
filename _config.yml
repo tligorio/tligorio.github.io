@@ -10,21 +10,23 @@
 ############################
 
 # Name of website
-title: My Website
+title: Tiziana Ligorio
 
 # Your name to show in the footer
-author: Some Person
+author: Tiziana Ligorio
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Teaching: 
+    - Deep Learning : "CSCI_493.77"
+    - Software Design and Analysis II : "CSCI_235"
+    - Intro to Computer Science : "CSCI_127"
+    - Teaching history: "teaching_history"
+  Research: "research"
+  Service: "service
 
 ################
 # --- Logo --- #
@@ -32,14 +34,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/logo.png"
 
 
 #####################################
