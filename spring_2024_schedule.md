@@ -1,4 +1,10 @@
 
+---
+layout: page
+title: Tiziana Ligorio
+subtitle: Computer Science PhD
+---
+
 
 ## TENTATIVE SCHEDULE for CSCI 235 Spring 2024:
 
