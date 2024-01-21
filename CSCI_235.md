@@ -4,7 +4,7 @@ title: Tiziana Ligorio
 subtitle: Computer Science PhD
 ---
 
-# CSci 235 Fall 2023
+# CSci 235 Spring 2024
 
 ## SOFTWARE DESIGN AND ANALYSIS II
 
