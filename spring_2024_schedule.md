@@ -9,7 +9,7 @@ subtitle: Computer Science PhD
 
 LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY QUESTIONS |
 ------- | ---- | ----- | -------- | --------- | ------- | ------- | ----------|
-1 | T, 8/27 | Welcome / Intro | **Syllabus, Programming Rules** |  |   |   |
+1 | F, 01/26 | Welcome / Intro | [Syllabus](documents/CSCI235_Spring2024_Syllabus.pdf), [Programming Guidelines](documents/CSCI235_Spring2024_ProgrammingGuidelines.pdf) |  |   |   |
 2 | F,  8/30 | Abstraction / OOP | Chapter 1, Appendix B   |   #1 Posted  |
 3 | T, 9/3 | Intro to Inheritance / Abstract Data Types / Templates  | C++ Interlude 1 | |  |    | [ADT_IN_SQ](documents/ADT_InheritanceQ.pdf)
 4 | F, 9/6 | Array-Based Implementation | Chapter 3  |**#1 DUE** #2 Posted  |  |  |   [ArrayBag_SQ](documents/ArrayBag_studyQ.pdf)
