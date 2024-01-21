@@ -5,12 +5,16 @@ subtitle: Computer Science PhD
 ---
 
 
-## TENTATIVE SCHEDULE for CSCI 235 Spring 2024:
+## TENTATIVE SCHEDULE for CSCI 235 Spring 2024:  
+
+This schedule is tentative and subject to change, please check regularly
+
+Textbook must be rented ($44.99) or purchased ($74.99) from [Vitalsource.com](https://www.vitalsource.com/products/data-abstraction-amp-problem-solving-with-c-walls-frank-m-carrano-timothy-m-v9780134477473?term=C%2B%2B+walls+mirrors) in order for the chapter links to work!
 
 LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY QUESTIONS |
 ------- | ---- | ----- | -------- | --------- | ------- | ------- | ----------|
 1 | F, 01/26 | Welcome / Intro | [Syllabus](documents/CSCI235_Spring2024_Syllabus.pdf), [Programming Guidelines](documents/CSCI235_Spring2024_ProgrammingGuidelines.pdf) |  |   |   |
-2 | F,  8/30 | Abstraction / OOP | Chapter 1, Appendix B   |   #1 Posted  |
+2 | T, 01/30 | Abstraction / OOP | [Chapter 1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/30%5B%3Bvnd.vst.idref%3DP70010119250000000000000000005D9%5D!/4/2%5BP70010119250000000000000000005D9%5D/2/2%5BP7001011925000000000000000009091%5D/4%400:0), [Appendix B](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/450%5B%3Bvnd.vst.idref%3DP7001011925000000000000000006BC2%5D!/4/2%5BP7001011925000000000000000006BC2%5D/2/2%5BP700101192500000000000000000E4E6%5D/4%400:0)   |     |  #1 Posted |
 3 | T, 9/3 | Intro to Inheritance / Abstract Data Types / Templates  | C++ Interlude 1 | |  |    | [ADT_IN_SQ](documents/ADT_InheritanceQ.pdf)
 4 | F, 9/6 | Array-Based Implementation | Chapter 3  |**#1 DUE** #2 Posted  |  |  |   [ArrayBag_SQ](documents/ArrayBag_studyQ.pdf)
 5 | T, 9/10| Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| |  |    |   [LinkedChain_SQ](documents/LinkedChain_studyQ.pdf)
