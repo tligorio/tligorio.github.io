@@ -15,40 +15,36 @@ LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY Q
 ------- | ---- | ----- | -------- | --------- | ------- | ------- | ----------|
 1 | F, 01/26 | Welcome / Intro | [Syllabus](documents/CSCI235_Spring2024_Syllabus.pdf), [Programming Guidelines](documents/CSCI235_Spring2024_ProgrammingGuidelines.pdf) |  |   | Intro  |
 2 | T, 01/30 | Abstraction / OOP | [Chapter 1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/30%5B%3Bvnd.vst.idref%3DP70010119250000000000000000005D9%5D!/4/2%5BP70010119250000000000000000005D9%5D/2/2%5BP7001011925000000000000000009091%5D/4%400:0), [Appendix B](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/450%5B%3Bvnd.vst.idref%3DP7001011925000000000000000006BC2%5D!/4/2%5BP7001011925000000000000000006BC2%5D/2/2%5BP700101192500000000000000000E4E6%5D/4%400:0)   |     |  #1 Posted | OOP
-3 | F, 0226 | Inheritance  | [C++ Interlude 1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/48%5B%3Bvnd.vst.idref%3DP700101192500000000000000000099F%5D!/4/6%400:0) | **Quiz 1** OOP|  |  Inheritance  | [ADT_IN_SQ](documents/Study_Questions/ADT_InheritanceQ.pdf)
+3 | F, 02/2 | Inheritance  | [C++ Interlude 1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/48%5B%3Bvnd.vst.idref%3DP700101192500000000000000000099F%5D!/4/6%400:0) | **Quiz 1** OOP|  |  Inheritance  | [ADT_IN_SQ](documents/Study_Questions/ADT_InheritanceQ.pdf)
 4 | T, 02/6 | ADTs & Templates | [Chapter 3.1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/86%5B%3Bvnd.vst.idref%3DP7001011925000000000000000001247%5D!/4/6%400:0) |   |   |  ADT |
 5  | F, 02/9  | Array-Based Implementation | [Chapter 3.2](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/88%5B%3Bvnd.vst.idref%3DP700101192500000000000000000128D%5D!/4/2%5BP700101192500000000000000000128D%5D/2/2%5BP7001011925000000000000000009B14%5D/2%400:0) |   |**#1 DUE** #2 Posted on 02/10 |  ArrayBag |  [ArrayBag_SQ](documents/Study_Questions/ArrayBag_studyQ.pdf)
-6 | T, 02/13 | Algorithm Efficiency |  [Chapter 10](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/224%5B%3Bvnd.vst.idref%3DP7001011925000000000000000002F5A%5D!/4/2%5BP7001011925000000000000000002F5A%5D/2/2%5BP700101192500000000000000000B31A%5D/4%400:0) | **Quiz 2** Inheritance, ADT, Array Bag |   BigO  |  [AlgoEfficiency_SQ](documents/Study_Questions/AlgoEff_studyQ.pdf)
+6 | T, 02/13 | Algorithm Efficiency |  [Chapter 10](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/224%5B%3Bvnd.vst.idref%3DP7001011925000000000000000002F5A%5D!/4/2%5BP7001011925000000000000000002F5A%5D/2/2%5BP700101192500000000000000000B31A%5D/4%400:0) | **Quiz 2** Inheritance, ADT, Array Bag |   |  BigO  |  [AlgoEfficiency_SQ](documents/Study_Questions/AlgoEff_studyQ.pdf)
 7 | F 02/16 | Pointers | [C++ Interlude 2](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/98%5B%3Bvnd.vst.idref%3DP700101192500000000000000000151A%5D!/4/2%5BP700101192500000000000000000151A%5D/2/2%5BP7001011925000000000000000009D22%5D/4%400:0), [poin/ref tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp4_PointerReference.html) | **Quiz 3** Algo Eff. |  |  Pointers |   
-5 | T, 9/10| Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| |  |    |   [LinkedChain_SQ](documents/LinkedChain_studyQ.pdf)
-6 | F, 9/13 | -//- | | **#2 DUE** #3 Posted   | |
-7 | T, 9/17 | Lists + Exceptions | Chapters 8/9 + C++ Interlude 3 |  |   |   |   [List_SQ](documents/List_studyQ.pdf)
-8 | F, 9/20 | -//-|  |  | |   | 
-9 | T, 9/24 | Polymorphism  | C++ Interlude 2 (Polymorphism) |**#3 DUE**  #4 Posted  |  |   | [Polymorphism_SQ](documents/Polymorphism_studyQ.pdf)
-10 | F, 9/27 | -//-  |  |    | |
-X | T, 10/1 | NO CLASSES
-11 | F, 10/4 | Recursion | Chapter 2 |**#4 DUE** #5 Posted | |    | [Recursion_SQ](documents/Recursion_studyQ.pdf)
-X | T, 10/8 | NO CLASSES
-12 | F, 10/11 | More Recursion | Chapter 5 | **#5 DUE**  |  
-13 | T, 10/15| Midterm Review| |  | 
-X | F, 10/18 | **Midterm Exam**  |  | |  |  | 
-14 | T, 10/22 | Algorithm Efficiency | Chapter 10 | | |[AlgoEfficiency_SQ](documents/AlgoEff_studyQ.pdf)
-15 | F, 10/25 | Searching and Sorting Algorithms and their Efficiency  | Chapter 11 |#6 Posted  | |[Sorting_SQ](documents/Sorting_studyQ.pdf)
-16 | T, 10/29| -//- | | 
-17 | F, 11/1 |  Stack | Chapter 6 | **#6 DUE** #7 posted |  | [Stack_SQ](documents/Stack_studyQ.pdf)
-18 | T, 11/5 | Stack Implementation | Chapter 7 | |  || [Stack_SQ](documents/Stack_studyQ.pdf)
-19 | F, 11/8 | Queue| Chapter 13  | **#7 DUE** #8 Posted  |  | [Queue_SQ](documents/Queue_studyQ.pdf)
-20 | T, 11/12 | Queue Implementation | Chapter 14  |  | 
-21 | F, 11/15 | Trees | Chapter 15 |**#8 DUE** #9 Posted  | 
-22 | T, 11/19 | -//- 
-23 | F, 11/22 |  Managed Pointers +  Tree Implementation | Interlude 4  + Chapter 16 | **#9 DUE** #10 Posted | | [Tree_SQ](documents/Tree_studyQ.pdf)
-24 | T, 11/26 | -//- 
-X | F, 11/29 | NO CLASSES
-25 | T, 12/3 | |
-26 | F, 12/6 | |  | **#10 DUE** 
-27 | T, 12/10 |
-28 | F, 12/13 | Final Review |
-X |<b><span style="color:red">  TBD </span></b> |  <b><span style="color:red"> FINAL EXAM </span></b> | |
+8| T, 02/20| Link-based Implementation  | [Chapter 4](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/110%5B%3Bvnd.vst.idref%3DP7001011925000000000000000001798%5D!/4/2%5BP7001011925000000000000000001798%5D/2/2%5BP7001011925000000000000000009F33%5D/4%400:0) | | **#2 DUE** #3 Posted on 02/21 | Lined Bag   |   [LinkedChain_SQ](documents/Study_Questions/LinkedChain_studyQ.pdf)
+9 | F, 02/23 | Copy/Move Constructors | | **Quiz 4** Pointers, Linked Bag  | |  Copy Move  |
+10 | T, 02/27 | List  | [Chapters 8](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/188%5B%3Bvnd.vst.idref%3DP7001011925000000000000000002728%5D!/4/2%5BP7001011925000000000000000002728%5D/2/2%5BP700101192500000000000000000AC19%5D/4%400:0) [Chapter 9](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/202%5B%3Bvnd.vst.idref%3DP700101192500000000000000000295E%5D!/4/2%5BP700101192500000000000000000295E%5D/2/2%5BP700101192500000000000000000AE08%5D/4%400:0)  |  |   | List  |   [List_SQ](documents/Study_Questions/List_studyQ.pdf)
+11 | F, 03/1 | Exception Handling | [C++ Interlude 3](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/162%5B%3Bvnd.vst.idref%3DP7001011925000000000000000002395%5D!/4/2%5BP7001011925000000000000000002395%5D/2/2%5BP700101192500000000000000000A90C%5D/4%400:0)  |  **Quiz 5** Copy/Move  | |  Exceptions | |
+12 | T, 03/5 | Polymorphism  | [C++ Interlude 2](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/106%5B%3Bvnd.vst.idref%3DP70010119250000000000000000016EA%5D!/4/6%400:0) | |**#3 DUE**  #4 Posted  10/7 |  Polymorphism  | [Polymorphism_SQ](documents/Study_Questions/Polymorphism_studyQ.pdf)
+13 | F, 03/8  |  Review |  |  | |   | 
+   | **T, 02/12**  | MIDTERM EXAM |
+14 | F, 03/15 | Searching and Sorting Algorithms and their Efficiency | [Chapter 2.4.2](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/70%5B%3Bvnd.vst.idref%3DP7001011925000000000000000000E02%5D!/4/2%5BP7001011925000000000000000000E02%5D/10%5BP7001011925000000000000000000E38%5D/2/2%5BP7001011925000000000000000009789%5D/2%400:0),
+[Chapter 10.2.5](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/228%5B%3Bvnd.vst.idref%3DP7001011925000000000000000002F9C%5D!/4/2%5BP7001011925000000000000000002F9C%5D/38%5BP70010119250000000000000000030B4%5D/2/2%5BP700101192500000000000000000B426%5D/2%400:0) | **Quiz 7** Polymorphism |  |  Searching  |   |
+15 | T, 03/19  |Sorting Algorithms and their Efficiency  | [Chapter 11](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/236%5B%3Bvnd.vst.idref%3DP7001011925000000000000000003188%5D!/4/2%5BP7001011925000000000000000003188%5D/2/2%5BP700101192500000000000000000B4CD%5D/4%400:0) |   |   | Sorting  | [Sorting_SQ](documents/Study_Questions/Sorting_studyQ.pdf)
+16 |  F, 03/22  | Recursive Backtracking  | [Chapter 2(Review)](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/62%5B%3Bvnd.vst.idref%3DP7001011925000000000000000000BEE%5D!/4/2%5BP7001011925000000000000000000BEE%5D/2/2%5BP70010119250000000000000000095A9%5D/4%400:0), [Chapter 5](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/128%5B%3Bvnd.vst.idref%3DP7001011925000000000000000001B70%5D!/4/2%5BP7001011925000000000000000001B70%5D/2/2%5BP700101192500000000000000000A272%5D/4%400:0),[Appendix E](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/496%5B%3Bvnd.vst.idref%3DP7001011925000000000000000007090%5D!/4/2%5BP7001011925000000000000000007090%5D/2/2%5BP700101192500000000000000000E8E1%5D/4%400:0)  |  **Quiz 8** Sorting|  **#4 DUE** #5 Posted on 03/23  | Recursion  | [Recursion_SQ](documents/Study_Questions/Recursion_studyQ.pdf)
+17 | T, 03/26 |  Dynamic Programming |  |  |  |  Dynamic Programming |
+18 | F, 03/29 | Stack & Queue | [Chapter 6](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/144%5B%3Bvnd.vst.idref%3DP7001011925000000000000000001F28%5D!/4/2%5BP7001011925000000000000000001F28%5D/2/2%5BP700101192500000000000000000A554%5D/4%400:0), [Chapter 13](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/274%5B%3Bvnd.vst.idref%3DP7001011925000000000000000003B21%5D!/4/2%5BP7001011925000000000000000003B21%5D/2/2%5BP700101192500000000000000000BCB7%5D/4%400:0) | **Quiz 9** Recursion |  | Stack&Queue |  |
+19 |  T, 04/2 |  Stack Implementation | [Chapter 7](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/174%5B%3Bvnd.vst.idref%3DP70010119250000000000000000025C8%5D!/4/2%5BP70010119250000000000000000025C8%5D/2/2%5BP700101192500000000000000000AAEC%5D/4%400:0), [C++ Interlude 8](https://bookshelf.vitalsource.com/reader/books/9780134477473/epubcfi/6/428[%3Bvnd.vst.idref%3DP7001011925000000000000000005DB5]!/4/2[P7001011925000000000000000005DB5]/4[P7001011925000000000000000005DB8]/2[P700101192500000000000000000D903]/4[P700101192500000000000000000D905]/2[P700101192500000000000000000D906]/2[P700101192500000000000000000D907]/4[P700101192500000000000000000D909]/4[P700101192500000000000000000D90C]/2[P700101192500000000000000000D90D]) |  |  | Stack Imp | [Stack_SQ](documents/Study_Questions/Stack_studyQ.pdf)
+20 | F, 04/5 | Queue Implementation| [Chapter 14](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/292%5B%3Bvnd.vst.idref%3DP7001011925000000000000000003F1B%5D!/4/2%5BP7001011925000000000000000003F1B%5D/2/2%5BP700101192500000000000000000C023%5D/4%400:0) | **Quiz 10** Stack  | **#5 DUE** #6 Posted on 04/6 |  Queue Imp | [Queue_SQ](documents/Study_Questions/Queue_studyQ.pdf)
+21 | T, 04/9 | Tree | [Chapter 15](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/310%5B%3Bvnd.vst.idref%3DP70010119250000000000000000042F9%5D!/4/2%5BP70010119250000000000000000042F9%5D/2/2%5BP700101192500000000000000000C34F%5D/4%400:0) |  |   | Tree | [Tree_SQ](documents/Study_Questions/Tree_studyQ.pdf)
+22 | F, 04/12 | Binary Search Tree  |   |  **Quiz 11** Queue  |  |  BST | |
+23 | T, 04/16 |  Managed Pointers | [Interlude 4](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/216%5B%3Bvnd.vst.idref%3DP7001011925000000000000000002CE7%5D!/4/2%5BP7001011925000000000000000002CE7%5D/2/2%5BP700101192500000000000000000B108%5D/4%400:0) |  | | ManagedPt |
+24 | F, 04/19 |  Tree Implementation | [Chapter 16](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/324%5B%3Bvnd.vst.idref%3DP70010119250000000000000000047EF%5D!/4/2%5BP70010119250000000000000000047EF%5D/2/2%5BP700101192500000000000000000C782%5D/4%400:0) |  | **#6 DUE** #17 Posted on 04/20 | BST_Imp | |
+   | **04/22 - 04/30** | **NO CLASSES, SPRING RECESS** |
+25 | F, 05/3 | Review & Finish Tree Implementation |  |  **Quiz 12** Binary Tree & BST | | |
+26 | T, 05/7 | Heaps (a very quick intro) | [Chapter 17](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/344%5B%3Bvnd.vst.idref%3DP7001011925000000000000000004C48%5D!/4/2%5BP7001011925000000000000000004C48%5D/2/2%5BP700101192500000000000000000CB0A%5D/4%400:0) | | |Heaps |
+27 | F, 05/10 | Special Topics |   |  
+28 | T, 05/14 | Final Review |   |   |  **#7 Due**
+   |<b><span style="color:red">  TBD </span></b> |  <b><span style="color:red"> FINAL EXAM </span></b> |  |
 
 
 
