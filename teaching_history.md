@@ -55,7 +55,7 @@ subtitle: Computer Science PhD
 
 
 #### CSCI 493.77
-– Deep Learning (Team teaching with Prof. Susan L. Epstein )
+– Deep Learning (Team teaching with Dr. Susan L. Epstein )
 
 
 #### CSCI 127
