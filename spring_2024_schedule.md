@@ -44,7 +44,7 @@ LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY Q
 22 | F, 04/12 | Binary Search Tree  |   |  **Quiz 11** Queue  |  |  BST | |
 23 | T, 04/16 |  Managed Pointers | [Interlude 4](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/216%5B%3Bvnd.vst.idref%3DP7001011925000000000000000002CE7%5D!/4/2%5BP7001011925000000000000000002CE7%5D/2/2%5BP700101192500000000000000000B108%5D/4%400:0) |  | | ManagedPt |
 |   | **Th, 04/18**   |  |  |  | **#6 DUE** |  | 
-24 | F, 04/19 |  Tree Implementation | [Chapter 16](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/324%5B%3Bvnd.vst.idref%3DP70010119250000000000000000047EF%5D!/4/2%5BP70010119250000000000000000047EF%5D/2/2%5BP700101192500000000000000000C782%5D/4%400:0) |  |  #17 Posted  | BST_Imp | |
+24 | F, 04/19 |  Tree Implementation | [Chapter 16](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/324%5B%3Bvnd.vst.idref%3DP70010119250000000000000000047EF%5D!/4/2%5BP70010119250000000000000000047EF%5D/2/2%5BP700101192500000000000000000C782%5D/4%400:0) |  |  #7 Posted  | BST_Imp | |
    | **04/22 - 04/30** | **NO CLASSES, SPRING RECESS** |
 25 | F, 05/3 | Review & Finish Tree Implementation |  |  **Quiz 12** Binary Tree & BST | | |
 26 | T, 05/7 | Heaps (a very quick intro) | [Chapter 17](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/344%5B%3Bvnd.vst.idref%3DP7001011925000000000000000004C48%5D!/4/2%5BP7001011925000000000000000004C48%5D/2/2%5BP700101192500000000000000000CB0A%5D/4%400:0) | | |Heaps |
