@@ -3,8 +3,10 @@ layout: page
 title: Tiziana Ligorio
 subtitle: Computer Science PhD
 ---
-# *Teaching history*
-
+# *Teaching history*  
+  
+<br/>
+<br/>
 
 # SPRING 2024
 
