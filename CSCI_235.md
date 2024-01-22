@@ -23,4 +23,4 @@ The primary focus of this course is the design and analysis of algorithms and ab
 
        
 ### Undergraduate Teaching Assisntants (UTAs)
-![UTAs](documents/UTAs.png)
+![UTAs](/assets/img/UTAs.png)
