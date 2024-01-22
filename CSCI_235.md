@@ -18,6 +18,7 @@ The primary focus of this course is the design and analysis of algorithms and ab
 * **TUTORING**:
   * Lab 1001B Hunter North (10th floor) 
   * Monday - Friday 11:30am – 5:30pm
- 
+
+   
 ### Undergraduate Teaching Assisntants (UTAs)
 ![UTAs](documents/UTAs.png)
