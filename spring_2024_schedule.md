@@ -10,7 +10,7 @@ subtitle: Computer Science PhD
 This schedule is tentative and subject to change, please check regularly
 
 Textbook must be rented ($44.99) or purchased ($74.99) from [Vitalsource.com](https://www.vitalsource.com/products/data-abstraction-amp-problem-solving-with-c-walls-frank-m-carrano-timothy-m-v9780134477473?term=C%2B%2B+walls+mirrors) in order for the chapter links to work!
-<center>
+
 LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY QUESTIONS |
 ------- | ---- | ----- | -------- | --------- | ------- | ------- | ----------|
 1 | F, 01/26 | Welcome / Intro | [Syllabus](documents/CSCI235_Spring2024_Syllabus.pdf), [Programming Guidelines](documents/CSCI235_Spring2024_ProgrammingGuidelines.pdf) |  |   | Intro  |
@@ -51,5 +51,5 @@ LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY Q
 28 | T, 05/14 | Final Review |   |   |  **#7 Due**
    |<b><span style="color:red">  TBD </span></b> |  <b><span style="color:red"> FINAL EXAM </span></b> |  |
 
-</center>
+
 
