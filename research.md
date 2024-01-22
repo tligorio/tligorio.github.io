@@ -3,6 +3,7 @@ layout: page
 title: Tiziana Ligorio
 subtitle: Computer Science PhD
 ---
+# *Research*
 
 #### My doctoral research was on feature selection for spoken dialogue systems.  
 Spoken dialogue between people and machines is increasingly common, but not as flexible and complex as that between people. Spoken dialogue is susceptible to error – human speech is often loosely structured, people change their mind at mid- sentence, repeat themselves, pause, and produce non-speech sounds. A spoken dialogue system expected to handle complex and flexible dialogue like that between people must be robust to error, and employ strategies for error detection and recovery.

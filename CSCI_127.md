@@ -4,9 +4,9 @@ title: Tiziana Ligorio
 subtitle: Computer Science PhD
 ---
 
-# CSci 235 Fall 2023
+# CSCI 127 Fall 2023
 
-## SOFTWARE DESIGN AND ANALYSIS II
+## INTRODUCTION TO COMPUTER SCIENCE
 
 ________________________________________
 
@@ -14,15 +14,15 @@ This course presents an overview of computer science (CS) with an emphasis on pr
 
 
 #### Course Designers:
-Dr. Katherine St. John
-Dr. William Sakas
-Prof. Eric Schweitzer
+* Dr. Katherine St. John
+* Dr. William Sakas
+* Prof. Eric Schweitzer
 
 
 #### Course Instructors:
-Prof. Melissa Lynch (Course Instructor and Coordinator)
-Lola Samigjonova (Early College Initiative Instructor)
-Dr. Tiziana Ligorio (Macaulay Honors College Instructor)
+* Prof. Melissa Lynch (Course Instructor and Coordinator)
+* Lola Samigjonova (Early College Initiative Instructor)
+* Dr. Tiziana Ligorio (Macaulay Honors College Instructor)
 
 
 [Official course website](https://huntercsci127.github.io/f23.html)
