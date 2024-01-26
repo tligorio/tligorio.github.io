@@ -13,7 +13,7 @@ Textbook must be rented ($44.99) or purchased ($74.99) from [Vitalsource.com](ht
 
 LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY QUESTIONS 
 ------- | ---- | ----- | -------- | --------- | ------- | ------- | ----------
-1 | F, 01/26 | [Welcome / Intro](documents/Lectures/1_Intro_lecture1.pdf) | [Syllabus](documents/CSCI235_Spring2024_Syllabus.pdf), [Programming Guidelines](documents/CSCI235_Spring2024_ProgrammingGuidelines.pdf) |  |   | Intro  |
+1 | F, 01/26 | Welcome / Intro | [Syllabus](documents/CSCI235_Spring2024_Syllabus.pdf), [Programming Guidelines](documents/CSCI235_Spring2024_ProgrammingGuidelines.pdf) |  |   | Intro  |
 2 | T, 01/30 | Abstraction / OOP | [Chapter 1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/30%5B%3Bvnd.vst.idref%3DP70010119250000000000000000005D9%5D!/4/2%5BP70010119250000000000000000005D9%5D/2/2%5BP7001011925000000000000000009091%5D/4%400:0), [Appendix B](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/450%5B%3Bvnd.vst.idref%3DP7001011925000000000000000006BC2%5D!/4/2%5BP7001011925000000000000000006BC2%5D/2/2%5BP700101192500000000000000000E4E6%5D/4%400:0)   |     |  #1 Posted | OOP|
 3 | F, 02/2 | Inheritance  | [C++ Interlude 1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/48%5B%3Bvnd.vst.idref%3DP700101192500000000000000000099F%5D!/4/6%400:0) | **Quiz 1** OOP|  |  Inheritance  | [ADT_IN_SQ](documents/Study_Questions/ADT_InheritanceQ.pdf)
 4 | T, 02/6 | ADTs & Templates | [Chapter 3.1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/86%5B%3Bvnd.vst.idref%3DP7001011925000000000000000001247%5D!/4/6%400:0) |   |   |  ADT |
