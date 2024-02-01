@@ -17,7 +17,7 @@ LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY Q
 2 | T, 01/30 | [Abstraction / OOP](documents/Lectures/2_OOP_lecture2.pdf) | [Chapter 1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/30%5B%3Bvnd.vst.idref%3DP70010119250000000000000000005D9%5D!/4/2%5BP70010119250000000000000000005D9%5D/2/2%5BP7001011925000000000000000009091%5D/4%400:0), [Appendix B](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/450%5B%3Bvnd.vst.idref%3DP7001011925000000000000000006BC2%5D!/4/2%5BP7001011925000000000000000006BC2%5D/2/2%5BP700101192500000000000000000E4E6%5D/4%400:0)   |     |  #1 Posted | OOP|
 3 | F, 02/2 | Inheritance  | [C++ Interlude 1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/48%5B%3Bvnd.vst.idref%3DP700101192500000000000000000099F%5D!/4/6%400:0) | **Quiz 1** OOP|  |  Inheritance  | [ADT_IN_SQ](documents/Study_Questions/ADT_InheritanceQ.pdf)
 4 | T, 02/6 | ADTs & Templates | [Chapter 3.1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/86%5B%3Bvnd.vst.idref%3DP7001011925000000000000000001247%5D!/4/6%400:0) |   |   | ADT |
-**Th, 02/8**||||**#1 DUE**|||
+|**Th, 02/8**||||**#1 DUE**||
 5  | F, 02/9  | Array-Based Implementation | [Chapter 3.2](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/88%5B%3Bvnd.vst.idref%3DP700101192500000000000000000128D%5D!/4/2%5BP700101192500000000000000000128D%5D/2/2%5BP7001011925000000000000000009B14%5D/2%400:0) |  **Quiz 2** Inheritance, ADT, Array Bag   |#2 Posted |  ArrayBag |  [ArrayBag_SQ](documents/Study_Questions/ArrayBag_studyQ.pdf)
 6 | T, 02/13 | Algorithm Efficiency |  [Chapter 10](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/224%5B%3Bvnd.vst.idref%3DP7001011925000000000000000002F5A%5D!/4/2%5BP7001011925000000000000000002F5A%5D/2/2%5BP700101192500000000000000000B31A%5D/4%400:0) |  |   |  BigO  |  [AlgoEfficiency_SQ](documents/Study_Questions/AlgoEff_studyQ.pdf)
 7 | F 02/16 | Pointers | [C++ Interlude 2](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/98%5B%3Bvnd.vst.idref%3DP700101192500000000000000000151A%5D!/4/2%5BP700101192500000000000000000151A%5D/2/2%5BP7001011925000000000000000009D22%5D/4%400:0), [poin/ref tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp4_PointerReference.html) | **Quiz 3** Algo Eff.  |  |  Pointers |
@@ -50,7 +50,7 @@ LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY Q
 27 | F, 05/10 | Special Topics |  |  | |  |
 28 | T, 05/14 | Final Review |  |  | **#7 Due** |  |
  <b><span style="color:red">  TBD </span></b> | <b><span style="color:red"> FINAL EXAM </span></b> |  |  | |  ||
-  |  |  |  | |  ||
+  |  |  | |  |||
 
 
 
