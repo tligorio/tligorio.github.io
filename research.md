@@ -3,6 +3,8 @@ layout: page
 title: Tiziana Ligorio
 subtitle: Computer Science PhD
 ---
+
+<meta name="Tiziana Ligorio" content= "Tiziana Ligorio research webpage" >
 # *Research*
 
 #### My doctoral research was on feature selection for spoken dialogue systems.  
