@@ -4,6 +4,7 @@ title: Tiziana Ligorio
 subtitle: Computer Science PhD
 ---
 
+ <meta name="Tiziana Ligorio" content= "Tiziana Ligorio course webpage" >
 
 ## TENTATIVE SCHEDULE for CSCI 235 Spring 2024:  
 
