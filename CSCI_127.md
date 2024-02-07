@@ -10,6 +10,8 @@ subtitle: Computer Science PhD
 
 ________________________________________
 
+<meta name="Tiziana Ligorio" content= "Tiziana Ligorio course webpage" >
+
 This course presents an overview of computer science (CS) with an emphasis on problem-solving and computational thinking through 'coding': computer programming for beginners. Other topics include: organization of hardware, software, and how information is structured on contemporary computing devices. This course is pre-requisite to several introductory core courses in the CS Major. The course is also required for the CS minor. MATH 12500 or higher is strongly recommended as a co-req for intended Majors.
 
 
