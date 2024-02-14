@@ -20,7 +20,7 @@ LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY Q
 4 | T, 02/6 | [ADTs & Templates](documents/Lectures/4_ADT&Templates_lecture4.pdf) | [Chapter 3.1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/86%5B%3Bvnd.vst.idref%3DP7001011925000000000000000001247%5D!/4/6%400:0) |   |   | ADT |
 **Th, 02/8**||||**#1 DUE**|||
 5  | F, 02/9  | [Array-Based Implementation](documents/Lectures/5_ArrayBag_lecture5.pdf) | [Chapter 3.2](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/88%5B%3Bvnd.vst.idref%3DP700101192500000000000000000128D%5D!/4/2%5BP700101192500000000000000000128D%5D/2/2%5BP7001011925000000000000000009B14%5D/2%400:0) |  **Quiz 2** Inheritance, ADT, Array Bag   |#2 Posted |  ArrayBag |  [ArrayBag_SQ](documents/Study_Questions/ArrayBag_studyQ.pdf)
-6 | T, 02/13 | Algorithm Efficiency |  [Chapter 10](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/224%5B%3Bvnd.vst.idref%3DP7001011925000000000000000002F5A%5D!/4/2%5BP7001011925000000000000000002F5A%5D/2/2%5BP700101192500000000000000000B31A%5D/4%400:0) |  |   |  BigO  |  [AlgoEfficiency_SQ](documents/Study_Questions/AlgoEff_studyQ.pdf)
+6 | T, 02/13 | [Algorithm Efficiency](documents/Lectures/6_AlgoEfficiency_lecture6.pdf) |  [Chapter 10](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/224%5B%3Bvnd.vst.idref%3DP7001011925000000000000000002F5A%5D!/4/2%5BP7001011925000000000000000002F5A%5D/2/2%5BP700101192500000000000000000B31A%5D/4%400:0) |  |   |  BigO  |  [AlgoEfficiency_SQ](documents/Study_Questions/AlgoEff_studyQ.pdf)
 7 | F 02/16 | Pointers | [C++ Interlude 2](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/98%5B%3Bvnd.vst.idref%3DP700101192500000000000000000151A%5D!/4/2%5BP700101192500000000000000000151A%5D/2/2%5BP7001011925000000000000000009D22%5D/4%400:0), [poin/ref tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp4_PointerReference.html) | **Quiz 3** Algo Eff.  |  |  Pointers |
  **Mo, 02/19** |  |  |  |**#2 DUE**|||
 8 | T, 02/20 | Link-based Implementation | [Chapter 4](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/110%5B%3Bvnd.vst.idref%3DP7001011925000000000000000001798%5D!/4/2%5BP7001011925000000000000000001798%5D/2/2%5BP7001011925000000000000000009F33%5D/4%400:0) |  | #3 Posted | Lined Bag |[LinkedChain_SQ](documents/Study_Questions/LinkedChain_studyQ.pdf)
@@ -51,7 +51,7 @@ LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY Q
 27 | F, 05/10 | Special Topics |  |  | |  |
 28 | T, 05/14 | Final Review |  |  | **#7 DUE** |  |
  <b><span style="color:red"> MONDAY 05/20              9-11AM </span></b> | <b><span style="color:red"> FINAL EXAM </span></b> | |  ||||
-  |||||||
+|||||||
 
 
 
