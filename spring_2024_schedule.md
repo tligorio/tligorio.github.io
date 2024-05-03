@@ -46,7 +46,7 @@ X | F, 03/29 | **NO CLASS** |  |  | | Dynamic Programming |
 22 | F, 04/19 | [Managed Pointers](documents/Lectures/23_ManagedPointers.pdf) | [Interlude 4](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/216%5B%3Bvnd.vst.idref%3DP7001011925000000000000000002CE7%5D!/4/2%5BP7001011925000000000000000002CE7%5D/2/2%5BP700101192500000000000000000B108%5D/4%400:0) |  | **#6 DUE** | ManagedPt |
 X |  | **Sa, 04/20** |  | | #7 Posted |  |
  X | **04/22 - 04/30** | **NO CLASSES, SPRING RECESS** |||||
-23 | F, 05/3 | Tree Implementation | [Chapter 16](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/324%5B%3Bvnd.vst.idref%3DP70010119250000000000000000047EF%5D!/4/2%5BP70010119250000000000000000047EF%5D/2/2%5BP700101192500000000000000000C782%5D/4%400:0) |  | | BST_Imp |
+23 | F, 05/3 | [Tree Implementation](documents/Lectures/24_25_BSTImpl.pdf) | [Chapter 16](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/324%5B%3Bvnd.vst.idref%3DP70010119250000000000000000047EF%5D!/4/2%5BP70010119250000000000000000047EF%5D/2/2%5BP700101192500000000000000000C782%5D/4%400:0) |  | | BST_Imp |
 24 | T, 05/7 | Review & Finish Tree Implementation |  | **Quiz 12** Binary Tree & BST | |  |
 25 | F, 05/10 | Heaps (a very quick intro) | [Chapter 17](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/344%5B%3Bvnd.vst.idref%3DP7001011925000000000000000004C48%5D!/4/2%5BP7001011925000000000000000004C48%5D/2/2%5BP700101192500000000000000000CB0A%5D/4%400:0) |  | | Heaps |
 26 | T, 05/14 | Final Review |  |  | **#7 DUE** |  |
