@@ -12,7 +12,7 @@ This schedule is tentative and subject to change, please check regularly
 
 Textbook must be rented ($44.99) or purchased ($74.99) from [Vitalsource.com](https://www.vitalsource.com/products/data-abstraction-amp-problem-solving-with-c-walls-frank-m-carrano-timothy-m-v9780134477473?term=C%2B%2B+walls+mirrors) in order for the chapter links to work!
 
-LECTURE | DATE | TOPIC | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY QUESTIONS 
+LECTURE | DATE | TOPIC (slides) | REQUIRED READING | QUIZZES | PROJECT | SLIDES | STUDY QUESTIONS 
 ------- | ---- | ----- | -------- | --------- | ------- | ------- | ----------
 1 | F, 01/26 | [Welcome / Intro](documents/235_Lectures/1_Intro_lecture1.pdf) | [Syllabus](documents/CSCI235_Spring2024_Syllabus.pdf), [Programming Guidelines](documents/CSCI235_Spring2024_ProgrammingGuidelines.pdf) |  |   | Intro  |
 2 | T, 01/30 | [Abstraction / OOP](documents/235_Lectures/2_OOP_lecture2.pdf) | [Chapter 1](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/30%5B%3Bvnd.vst.idref%3DP70010119250000000000000000005D9%5D!/4/2%5BP70010119250000000000000000005D9%5D/2/2%5BP7001011925000000000000000009091%5D/4%400:0), [Appendix B](https://bookshelf.vitalsource.com/#/books/9780134477473/epubcfi/6/450%5B%3Bvnd.vst.idref%3DP7001011925000000000000000006BC2%5D!/4/2%5BP7001011925000000000000000006BC2%5D/2/2%5BP700101192500000000000000000E4E6%5D/4%400:0)   |     |  #1 Posted | OOP|
