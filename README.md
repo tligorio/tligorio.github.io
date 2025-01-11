@@ -1,3 +1,3 @@
 # Tiziana Ligorio
 
-Professional website
+Academic website
