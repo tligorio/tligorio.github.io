@@ -11,7 +11,7 @@ subtitle: Computer Science PhD
 # SPRING 2025
 
 #### CSCI 499
-– Advanced Applications: A Capstone for Majors
+– Advanced Applications: A Capstone for Majors  
 – Instructor 
 
 
