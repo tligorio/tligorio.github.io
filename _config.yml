@@ -23,7 +23,7 @@ navbar-links:
   Teaching:
     - Deep Learning: "CSCI_493_77"
     - Software Design and Analysis II: "CSCI_235"
-    - Capstone: "Capstone.md"
+    - Capstone: "CSCI_499"
     - Intro to Computer Science: "CSCI_127"
     - Teaching history: "teaching_history"
   Research: "research"
