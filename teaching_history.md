@@ -29,11 +29,11 @@ subtitle: Computer Science PhD
 # SPRING 2024
 
 #### CSCI 235
-– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture
+– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture  
 – Instructor and Course Coordinator
 
 #### CSCI 493.77
-– Deep Learning (Team teaching with Dr. Susan L. Epstein )
+– Deep Learning (Team teaching with Dr. Susan L. Epstein )  
 – Instructor and Course Coordinator
 
 
@@ -41,23 +41,23 @@ subtitle: Computer Science PhD
 # FALL 2023
 
 #### CSCI 235
-– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture
+– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture  
 – Instructor and Course Coordinator
 
-#### CSCI 127
-– Introduction to Computer Science
+#### CSCI 127  
+– Introduction to Computer Science  
 - Recitation instructor  (Honors section)
 
 
 
 # SPRING 2023
 
-#### CSCI 235
-– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture
+#### CSCI 235  
+– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture  
 – Instructor and Course Coordinator
 
 #### CSCI 493.77
-– Deep Learning (Team teaching with Dr. Susan L. Epstein )
+– Deep Learning (Team teaching with Dr. Susan L. Epstein )  
 – Instructor and Course Coordinator
 
 
@@ -66,7 +66,7 @@ subtitle: Computer Science PhD
 # FALL 2022
 
 #### CSCI 235
-– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture
+– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture    
 – Instructor and Course Coordinator
 
 
@@ -76,12 +76,12 @@ subtitle: Computer Science PhD
 
 
 #### CSCI 493.77
-– Deep Learning (Team teaching with Dr. Susan L. Epstein )
+– Deep Learning (Team teaching with Dr. Susan L. Epstein )  
 – Instructor and Course Coordinator
 
 
 #### CSCI 127
-– Introduction to Computer Science  (Large Lecture)
+– Introduction to Computer Science  (Large Lecture)  
 – Instructor & Course Coordinator
 
 
@@ -90,7 +90,7 @@ subtitle: Computer Science PhD
 # FALL 2021
 
 #### CSCI 127
-– Introduction to Computer Science  (Large Lecture + Honors Section)
+– Introduction to Computer Science  (Large Lecture + Honors Section)  
 – Instructor & Course Coordinator
 
 
@@ -100,7 +100,7 @@ subtitle: Computer Science PhD
 # SPRING 2021
 
 #### CSCI 127
-– Introduction to Computer Science  (Large Lecture)
+– Introduction to Computer Science  (Large Lecture)  
 – Instructor & Course Coordinator
 
 
@@ -109,7 +109,7 @@ subtitle: Computer Science PhD
 # SPRING 2021
 
 #### CSCI 127
-– Introduction to Computer Science  (Large Lecture)
+– Introduction to Computer Science  (Large Lecture)  
 – Instructor & Course Coordinator
 
 
@@ -118,7 +118,7 @@ subtitle: Computer Science PhD
 # FALL 2020
  
 #### CSCI 127
-– Introduction to Computer Science  (Large Lecture + Honors Section)
+– Introduction to Computer Science  (Large Lecture + Honors Section)  
 – Instructor & Course Coordinator
 
 
@@ -127,11 +127,11 @@ subtitle: Computer Science PhD
 # SUMMER 2020
  
 #### CSCI 235
-– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture
+– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture  
 – Instructor and Course Coordinator
 
 #### CSCI 127
-– Introduction to Computer Science 
+– Introduction to Computer Science   
 – Instructor and Course Coordinator
 
 
@@ -141,7 +141,7 @@ subtitle: Computer Science PhD
 # SPRING 2020
 
 #### CSCI 127
-– Introduction to Computer Science  (Large Lecture)
+– Introduction to Computer Science  (Large Lecture)  
 – Instructor and Course Coordinator
 
 
@@ -150,11 +150,11 @@ subtitle: Computer Science PhD
 # FALL 2019
 
 #### CSCI 235
-– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture
+– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture  
 – Instructor and Course Coordinator
 
 #### CSCI 127
-– Introduction to Computer Science
+– Introduction to Computer Science  
 - Recitation Instructor  (Honors section)
 
 
@@ -163,7 +163,7 @@ subtitle: Computer Science PhD
 # SUMMER 2019
 
 #### CSCI 235
-– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture
+– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture  
 – Instructor and Course Coordinator
 
 
@@ -173,11 +173,11 @@ subtitle: Computer Science PhD
 # SPRING 2019
 
 #### CSCI 235
-– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture
+– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture  
 – Instructor and Course Coordinator
 
 #### CSCI 127
-– Introduction to Computer Science
+– Introduction to Computer Science  
 - Recitation Instructor  
 
 
@@ -186,11 +186,11 @@ subtitle: Computer Science PhD
 # FALL 2018
 
 #### CSCI 235
-– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture
+– Software Design and Analysis II  (Algorithms & Data Structures), Large Lecture  
 – Instructor and Course Coordinator
 
 #### CSCI 127
-– Introduction to Computer Science
+– Introduction to Computer Science  
 - Recitation Instructor  (2 sections + Honors)
 
 
