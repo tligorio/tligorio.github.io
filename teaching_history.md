@@ -46,7 +46,7 @@ subtitle: Computer Science PhD
 
 #### CSCI 127  
 – Introduction to Computer Science  
-- Recitation instructor  (Honors section)
+– Recitation instructor  (Honors section)
 
 
 
