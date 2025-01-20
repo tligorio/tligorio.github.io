@@ -20,7 +20,7 @@ subtitle: Computer Science PhD
 
 # FALL 2024
 
-#### FELLOWSHIP LEAVE  
+#### SABBATICAL LEAVE  
 
 
     
