@@ -8,6 +8,32 @@ subtitle: Computer Science PhD
 <br/>
 <br/>
 
+
+# SPRING 2026
+
+#### CSCI 395.32
+– **AI Agents**  
+– Instructor & Course Coordinator  
+
+
+#### CSCI 127
+– **Introduction to Computer Science**  (Large Lecture)  
+– Instructor & Course Coordinator (Team teaching with Dr. Katherine St. John ) 
+
+---
+
+    
+
+
+# FALL 2025
+
+#### SABBATICAL LEAVE    
+  
+---
+
+
+
+
 # SPRING 2025
 
 #### CSCI 499
