@@ -4,7 +4,7 @@ title: Tiziana Ligorio
 subtitle: Computer Science PhD
 ---
 
-# CSCI 127 Fall 2023
+# CSCI 127 Spring 2026
 
 ## INTRODUCTION TO COMPUTER SCIENCE
 
@@ -22,9 +22,10 @@ This course presents an overview of computer science (CS) with an emphasis on pr
 
 
 #### Course Instructors:
-* Prof. Melissa Lynch (Course Instructor and Coordinator)
+* Dr. Katherine St. John (Course Instructor and Coordinator)
+* Dr. Tiziana Ligorio (Course Instructor and Coordinator)
 * Lola Samigjonova (Early College Initiative Instructor)
-* Dr. Tiziana Ligorio (Macaulay Honors College Instructor)
 
 
-[Official course website](https://huntercsci127.github.io/f23.html)
+
+[Official course website](https://huntercsci127.github.io/f26.html)
