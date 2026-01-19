@@ -21,6 +21,7 @@ author: Tiziana Ligorio
 
 navbar-links:
   Teaching:
+    - AI Agents: "CSCI_395_32"
     - Deep Learning: "CSCI_493_77"
     - Software Design and Analysis II: "CSCI_235"
     - Capstone: "CSCI_499"
