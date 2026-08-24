@@ -9,9 +9,24 @@ subtitle: Computer Science PhD
 <br/>
 
 
+# FALL 2026
+
+#### CSCI 39532
+– **AI Agents**  
+– Instructor & Course Coordinator  
+
+
+#### CSCI 127
+– **Introduction to Computer Science**  (Large Lecture)  
+– Instructor & Course Coordinator (Team teaching with Dr. Katherine St. John )
+– Recitation instructor  (Macaulay Honors section) 
+
+---
+
+
 # SPRING 2026
 
-#### CSCI 395.32
+#### CSCI 39532
 – **AI Agents**  
 – Instructor & Course Coordinator  
 
