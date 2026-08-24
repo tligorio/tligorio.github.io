@@ -18,7 +18,7 @@ subtitle: Computer Science PhD
 
 #### CSCI 127
 – **Introduction to Computer Science**  (Large Lecture)  
-– Instructor & Course Coordinator (Team teaching with Dr. Katherine St. John )
+– Instructor & Course Coordinator (Team teaching with Dr. Katherine St. John )   
 – Recitation instructor  (Macaulay Honors section) 
 
 ---
